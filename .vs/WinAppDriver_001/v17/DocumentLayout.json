@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akhte\\OneDrive\\Desktop\\WinAppDriver_001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDA842-532D-4B8E-BE4B-A2604C61B45B}|WinAppDriver_001\\WinAppDriver_001.csproj|c:\\users\\akhte\\onedrive\\desktop\\winappdriver_001\\winappdriver_001\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDA842-532D-4B8E-BE4B-A2604C61B45B}|WinAppDriver_001\\WinAppDriver_001.csproj|solutionrelative:winappdriver_001\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\akhte\\OneDrive\\Desktop\\WinAppDriver_001\\WinAppDriver_001\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WinAppDriver_001\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\akhte\\OneDrive\\Desktop\\WinAppDriver_001\\WinAppDriver_001\\UnitTest1.cs",
+              "RelativeToolTip": "WinAppDriver_001\\UnitTest1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:44:25.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
